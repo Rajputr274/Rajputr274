@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="./assets/generated/galaxy-header.svg" width="100%" alt="Rahul Rajput — Developer & Data Analyst"/>
+  <img src="./assets/generated/galaxy-header.svg" width="100%" alt="Rahul Rajput — AI/ML Engineer"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/></a>
-<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=f87171"/></a>
+<a href="https://www.linkedin.com/in/rajputr274"><img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/></a>
+<a href="mailto:rajputr274@gmail.com"><img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=f87171"/></a>
 
 <sub><img src="https://komarev.com/ghpvc/?username=rajputr274&label=Profile%20Views&color=080c14&style=for-the-badge"/></sub>
 
