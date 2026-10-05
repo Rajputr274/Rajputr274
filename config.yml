@@ -12,23 +12,18 @@ organizations: []
 
 # Profile information displayed in the galaxy header
 profile:
-  name: "Devendra"
-  tagline: "Senior DevOps & SRE Engineer | Kubernetes · AWS · CI/CD | Prometheus · Grafana | Python"
-  company: "Independent — Infra & DevOps Training"
-  location: "Faridabad, India"
+  name: "Rahul Rajput"
+  tagline: "AI/ML Engineer| RAG · AWS · CI/CD | GenAI · AgenticAI | Python"
+  company: "Independent — AI/ML Specialization"
+  location: "Delhi, India"
   bio: |
-    Infrastructure engineer with 3.5+ years running production systems —
-    designing and operating the Kubernetes, CI/CD, and observability stacks
-    underneath them. Building self-managed K3s clusters with service mesh
-    and GitOps delivery, and zero-trust, keyless CI/CD pipelines on AWS.
-    Also delivers AWS, DevOps, and backend training to engineers.
-  philosophy: '"Building systems that don''t wake people up at 3am."'
+    Results-driven Data Scientist and AI/ML Engineer with 5+ years of experience specializing in data analysis, machine learning model development, and deploying intelligent systems. Proficient in core data science stacks including Python, NumPy, Pandas, Seaborn, and Matplotlib. Experienced in building end-to-end solutions, with advanced expertise in Generative AI, Prompt Engineering, Agentic AI, Large Language Models (LLMs), RAG systems, LangChain, LangGraph, Deep Learning, and NLP. Passionate about solving complex real-world problems and continuously exploring emerging tools and frameworks to drive technical innovation.
+  philosophy: '"Engineering peace of mind, one robust pipeline at a time."'
 
 # Social links displayed at the bottom of the profile
 social:
   email: "YOUR-EMAIL"
   linkedin: "YOUR-LINKEDIN-HANDLE"
-  website: "https://blog.devilhai.info"
 
 # Galaxy arms represent your core focus areas
 # Available colors: "synapse_cyan", "dendrite_violet", "axon_amber"
@@ -36,44 +31,44 @@ galaxy_arms:
   - name: "Platform & Orchestration"
     color: "synapse_cyan"
     items:
-      - "Kubernetes"
-      - "K3s"
+      - "FastAPI"
+      - "Python"
       - "Docker"
-      - "Linkerd"
-      - "Helm"
+      - "MySQL"
+      - "Streamlit"
 
-  - name: "Cloud & CI/CD"
+  - name: "Cloud & Data"
     color: "dendrite_violet"
     items:
       - "AWS"
-      - "Jenkins"
-      - "GitHub Actions"
-      - "ArgoCD"
-      - "Terraform"
+      - "MongoDB"
+      - "Power BI"
+      - "EDA"
+      - "Machine Learning"
 
-  - name: "Observability & Data"
+  - name: "Software & Systems"
     color: "axon_amber"
     items:
-      - "Prometheus"
-      - "Grafana"
-      - "Python"
-      - "MySQL"
-      - "Redis"
+      - "C++"
+      - "JavaScript"
+      - "Data Structures"
+      - "Git"
+      - "Linux"
 
 # Featured projects shown as constellation stars
 projects:
-  - repo: "DEVENDRA-5470/bookvault"
+  - repo: "Rajputr274/Live-Weather-Rain-Prediction-System"
     arm: 0
-    description: "Self-managed 3-node K3s cluster with Linkerd service mesh and Jenkins + ArgoCD GitOps delivery."
-  - repo: "DEVENDRA-5470/electronix"
+    description: "Real-time weather and rainfall prediction system with a live web interface and predictive models."
+  - repo: "Rajputr274/E-commerce-Sales-Dashboard-using-Power-BI"
     arm: 1
-    description: "Distributed Jenkins CI/CD for a production MERN e-commerce app, zero hardcoded credentials."
-  - repo: "DEVENDRA-5470/simplebank"
-    arm: 1
-    description: "Zero-SSH, keyless AWS-native CI/CD — OIDC auth, SSM Session Manager, no open SSH port."
-  - repo: "DEVENDRA-5470/iquiz-hub"
+    description: "Interactive Power BI sales dashboard delivering deep insights into e-commerce revenue and metrics."
+  - repo: "Rajputr274/student-management-system-with-MySQL"
+    arm: 0
+    description: "Robust student management system backend leveraging MySQL for secure recordkeeping and querying."
+  - repo: "Rajputr274/Tour-and-travels-project"
     arm: 2
-    description: "Production quiz platform on ECS Fargate with a proctored, anti-cheat coding-exam module."
+    description: "Comprehensive tour and travel platform featuring user itineraries, destination guides, and seamless booking flows."
 
 # Theme color overrides (deep space palette, matches DevOps dark theme)
 theme:
