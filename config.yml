@@ -2,7 +2,7 @@
 # Customized for Devendra
 
 # Your GitHub username (required)
-username: DEVENDRA-5470
+username: Rajputr274
 
 # Additional GitHub accounts to aggregate stats from (optional)
 additional_accounts: []
@@ -22,8 +22,8 @@ profile:
 
 # Social links displayed at the bottom of the profile
 social:
-  email: "YOUR-EMAIL"
-  linkedin: "YOUR-LINKEDIN-HANDLE"
+  email: "rajputr274@gmail.com"
+  linkedin: "rajputr274"
 
 # Galaxy arms represent your core focus areas
 # Available colors: "synapse_cyan", "dendrite_violet", "axon_amber"
@@ -49,8 +49,6 @@ galaxy_arms:
   - name: "Software & Systems"
     color: "axon_amber"
     items:
-      - "C++"
-      - "JavaScript"
       - "Data Structures"
       - "Git"
       - "Linux"
